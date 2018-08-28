@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+main {
+    color: white;
+    /* margin-left: 40%;
+    margin-top: 20vh; */
+}
+
+img {
+    border-radius: 50%;
+    width: 30vh;
+}
+
+hr {
+    border-color: white;
+    width: 30%;
+}
