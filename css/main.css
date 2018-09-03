@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    margin-top: 10vh;
 }
 
 main {
@@ -8,12 +9,28 @@ main {
     margin-top: 20vh; */
 }
 
-img {
+.photo {
     border-radius: 50%;
     width: 30vh;
 }
 
 hr {
     border-color: white;
+    width: 30%;
+}
+
+.fas {
+    margin: 10px;
+}
+
+.fab {
+    margin: 10px;
+}
+
+section {
+    background: white;
+}
+
+.demo {
     width: 30%;
 }
