@@ -45,10 +45,30 @@ section {
     background: white;
 }
 
+div {
+    margin-top: 5vh;
+}
+
+.projects {
+    margin-top: 5vh;
+    font-weight: 900;
+}
+
+.first-mobile {
+    margin-top: 5vh;
+}
+
 .demo {
     width: 30%;
 }
 
 .sketch {
     width: 70%;
+}
+
+iframe {
+    margin: 0;
+    border: 0;  
+    width: 360px; 
+    height: 360px;
 }
