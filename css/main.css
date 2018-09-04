@@ -1,12 +1,18 @@
+/* font-family: 'Raleway', sans-serif; */
+
 body {
-    background-color: black;
-    margin-top: 10vh;
+    font-family: 'Raleway', sans-serif;
+}
+
+div {
+    padding: 0% !important;
+    margin: 0%;
 }
 
 main {
+    background: linear-gradient(45deg, #8829fe 0%,#8447ff 32%,#4391fe 60%,#1cc5ff 86%,#5bf3fe 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     color: white;
-    /* margin-left: 40%;
-    margin-top: 20vh; */
+    padding: 10vh;
 }
 
 .photo {
@@ -14,8 +20,12 @@ main {
     width: 30vh;
 }
 
+.alert-link {
+    color: #411896;
+}
+
 hr {
-    border-color: white;
+    border-color: #8829FE;
     width: 30%;
 }
 
@@ -25,6 +35,10 @@ hr {
 
 .fab {
     margin: 10px;
+}
+
+.nav-link {
+    color: #411896;
 }
 
 section {
