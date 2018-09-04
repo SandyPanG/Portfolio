@@ -72,3 +72,9 @@ iframe {
     width: 360px; 
     height: 360px;
 }
+
+.skill > i {
+    margin: 15vh;
+    color: #411896;
+    font-size: 20vh;
+}
